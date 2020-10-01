@@ -5,4 +5,5 @@ end
 
 class Drink < Menu
   attr_accessor :size
+  
 end
